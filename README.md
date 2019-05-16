@@ -1,6 +1,7 @@
 # workout
 
 ## Architecture
+[Diagram](https://mermaidjs.github.io/mermaid-live-editor/#/view/eyJjb2RlIjoiZ3JhcGggTFJcbkFbXCI8Yj5Gb250ZW5kIFNlcnZlcjwvYj48YnI-Tm9kZUpTICsgQW5ndWxhclwiXSAtLT58UkVTVHwgQihcIjxiPldvcmtvdXQgU2VydmljZTwvYj4gPGJyPiAgU3ByaW5nQm9vdFwiKVxuQiAtLT58U3ByaW5nIERhdGF8IEMoXCI8Yj5Xb3Jrb3V0IFBlcnNpdGVuY2U8L2I-PGJyPk1vbmdvREJcIikiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
 
 ### Components:
 - Frontend Server
